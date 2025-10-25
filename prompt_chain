@@ -115,21 +115,15 @@ Output:
 🎙️ **Duration:** 6–8 minutes  
 🎚️ **Tone:** Friendly, tech-savvy, motivating  
 
----
-
 ### [0:00–0:15] **Hook**
 *(B-roll: messy notebooks, scattered papers, student frustrated)*  
 **Voice:** [Energetic tone]  
 “Ever spent hours writing notes just to forget where you saved them? What if AI could do it *all* — summarize, organize, and file your notes automatically? Let’s build your own AI note system using ChatGPT and Notion AI!”
 
----
-
 ### [0:15–0:45] **Intro**
 *(B-roll: split-screen of ChatGPT & Notion logos, upbeat background music)*  
 **Voice:** [Calm tone]  
 “Hi everyone, I’m Siya — and today, I’ll show you a super practical workflow that lets ChatGPT and Notion AI manage your study or meeting notes *without* you lifting a pen. Whether you’re a student or a professional, this setup will save hours every week.”
-
----
 
 ### [0:45–2:00] **Step 1 — Extract Key Notes with ChatGPT**
 *(Screen recording: pasting a lecture paragraph into ChatGPT)*  
@@ -144,8 +138,6 @@ ChatGPT instantly extracts the most important information.”
 Or  
 > ‘Format notes as flashcards.’  
 Within seconds, your raw notes become structured and ready to store.”
-
----
 
 ### [2:00–3:00] **Step 2 — Send Notes to Notion AI**
 *(B-roll: switching to Notion app, creating new page template)*  
@@ -162,8 +154,6 @@ Within seconds, your raw notes become structured and ready to store.”
 Ask Notion AI to expand the points into short paragraphs.  
 Just like that — you’ve transformed summaries into full, clean study notes.”
 
----
-
 ### [3:00–4:30] **Step 3 — Automate the Workflow**
 *(B-roll: split-screen showing both ChatGPT & Notion together)*  
 **Voice:** [Excited tone]  
@@ -176,8 +166,6 @@ Use a free tool like Zapier or Notion API to send ChatGPT results straight to yo
 *(B-roll: animated arrows showing data flow between ChatGPT → Notion)*  
 “This is real AI-assisted productivity — minimal effort, maximum organization.”
 
----
-
 ### [4:30–5:30] **Step 4 — Bonus: Daily Summary Page**
 *(B-roll: Notion dashboard generating daily note summaries)*  
 **Voice:** [Warm tone]  
@@ -187,8 +175,6 @@ Just create a ‘Daily Summary’ page and tell Notion:
 
 *(B-roll: showing Notion creating daily summary cards)*  
 “This way, your entire week gets compiled into a single, easy-to-review dashboard — perfect for exam prep or project updates.”
-
----
 
 ### [5:30–6:30] **Conclusion & CTA**
 *(Host on camera, smiling)*  
@@ -201,15 +187,10 @@ Just create a ‘Daily Summary’ page and tell Notion:
 *(CTA screen)*  
 “Don’t forget to like 👍, subscribe 🔔, and comment below which AI tool saves *you* the most time!”
 
----
-
 ### [6:30–6:45] **Outro**
 *(Outro music + on-screen text: “Made with Future Interns | Prompt Engineering by Siya Poipkar”)*  
 **Voice:** [Friendly tone]  
 “Thanks for watching! See you in the next one — stay curious, stay creative.”
-
----
-
 **End of Script**
 
 
@@ -528,4 +509,7 @@ Wrap-up: motivational & friendly
 
 
 
+## ✍️ Notes
+- The most effective prompt was P3 for generating a coherent and conversational script.
+- Adjusting “tone: conversational” gave a more natural voice output.
 
