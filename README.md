@@ -1,18 +1,17 @@
-# FUTURE_PE_01 – YouTube Script & Thumbnail using AI
-Internship: Future Interns – Prompt Engineering  
-Author: Siya Poipkar  
+### Title: How to Automate Notes with ChatGPT & Notion AI
 
 ## Overview
-This project uses AI tools to generate a YouTube video script, thumbnail, and final video output through prompt engineering.
+This project explores how AI can automate note-taking for students and professionals using ChatGPT prompts and Notion AI templates. 
+The aim is to demonstrate prompt chaining for idea extraction, summarization, and auto-organization of notes.
 
-## Tools
-ChatGPT • Canva • Pictory (or InVideo) • DALL·E
+## Tools Used
+ChatGPT • Notion AI • Canva • DALL·E • ElevenLabs (Voiceover) • CapCut (Editing)
 
 ## Deliverables
-- Script  
-- Thumbnail  
-- Final video  
-- prompt_chain.md documenting every prompt used
+- Full Script
+- AI-generated Thumbnail
+- Voiceover Audio
+- Final Video
+- prompt_chain.md Documentation
 
-
-#Added initial README for Task 1
+#docs: updated README with new topic and overview
