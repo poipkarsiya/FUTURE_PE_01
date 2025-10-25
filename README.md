@@ -14,4 +14,3 @@ ChatGPT • Notion AI • Canva • DALL·E • ElevenLabs (Voiceover) • CapCu
 - Final Video
 - prompt_chain.md Documentation
 
-#docs: updated README with new topic and overview
