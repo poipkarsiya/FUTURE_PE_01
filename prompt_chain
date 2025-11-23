@@ -1,14 +1,4 @@
-# Prompt Chain – FUTURE_PE_01
-Title: How to Automate Notes with ChatGPT & Notion AI  
-Author: Siya Poipkar  
-Model: ChatGPT-4 (temperature 0.7)  
-Date: 2025-10-06
-
----
-
-## 🧩 P1 — Title Ideas
-Prompt:
-> Give me 10 catchy YouTube titles about using ChatGPT + Notion AI to automate note-taking and organize study notes. Keep each under 8 words and add a hook.
+1. Give me 10 catchy YouTube titles about using ChatGPT + Notion AI to automate note-taking and organize study notes. Keep each under 8 words and add a hook.
 
 Output:
 1. **"ChatGPT + Notion AI = Study Game Changer!"**
@@ -24,10 +14,7 @@ Output:
 
 
 
-## 🧩 P2 — Video Outline
-Prompt:
-> I choose “How to Automate Notes with ChatGPT & Notion AI”.  
-> Create a detailed 6-section outline for a 6–8 minute YouTube video with timestamps and one-sentence summaries for each section.
+2.“How to Automate Notes with ChatGPT & Notion AI”. Create a detailed 6-section outline for a 6–8 minute YouTube video with timestamps and one-sentence summaries for each section.
 
 Output:
 Title: How to Automate Notes with ChatGPT & Notion AI
@@ -100,14 +87,7 @@ CTA: Subscribe, like, and comment with what notes they’ll automate first
 
 
 
-## 🧩 P3 — YouTube Script (900 words)
-Prompt:
-> Turn the outline into a 900–1000 word YouTube script with:
-> - Hook (first 10 seconds)
-> - Personal intro
-> - 4 demo segments showing how ChatGPT + Notion work together
-> - B-roll and [voice direction] notes
-> - CTA (subscribe + try AI notes workflow)
+3. Turn the outline into a 900–1000 word YouTube script with Hook (first 10 seconds), Personal intro, 4 demo segments showing how ChatGPT + Notion work together, B-roll and [voice direction] notes, CTA (subscribe + try AI notes workflow)
 
 Output:
 
@@ -195,15 +175,11 @@ Just create a ‘Daily Summary’ page and tell Notion:
 
 
 
-## 🧩 P4 — Thumbnail Ideas
-Prompt:
-> Suggest 6 thumbnail texts (2–5 words each) and describe their visuals (background, colors, icons). Include at least one thumbnail showing ChatGPT and Notion logos.
+4. Suggest 6 thumbnail texts (2–5 words each) and describe their visuals (background, colors, icons). Include at least one thumbnail showing ChatGPT and Notion logos.
 
 Output:
 🧠 1. “AI Takes My Notes!”
-
 💡 Visuals:
-
 Background: Split screen — left side messy handwritten notes, right side clean Notion page.
 
 Colors: Left side grey/chaotic, right side white & teal (Notion’s palette).
@@ -280,17 +256,14 @@ It’s visual, curiosity-driven, and uses both recognizable logos — perfect fo
 
 
 
-## 🧩 P5 — Shot List
-Prompt:
-> Create a short shot list (8 shots total) for this video, including: screen recording ideas, transitions, and scenes to show text automation between ChatGPT and Notion.
+
+5. Create a short shot list (8 shots total) for this video, including: screen recording ideas, transitions, and scenes to show text automation between ChatGPT and Notion.
 
 Output:
 🎥 8-Shot YouTube Video Plan
 🩰 Shot 1 — Hook (0:00–0:10)
-
 Scene: Fast montage of notes transforming.
 Camera / Screen Recording:
-
 Split screen: messy handwritten notes → clean Notion page filling automatically.
 
 Quick zoom-in on glowing AI text effect.
@@ -382,9 +355,9 @@ Keep screen text animations subtle (underline or glow) to maintain a clean produ
 
 
 
-## 🧩 P6 — Voiceover Script
-Prompt:
-> Convert the main script into a 700-word conversational voiceover with [tone cues] and [pause 1s] instructions.
+
+
+6. Convert the main script into a 700-word conversational voiceover with [tone cues] and [pause 1s] instructions.
 
 Output:
 🎧 Voiceover Script – “How to Automate Notes with ChatGPT & Notion AI” (~700 words)
