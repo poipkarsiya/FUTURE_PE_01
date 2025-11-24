@@ -21,10 +21,10 @@ ChatGPT, Canva, InVideo/Pictory, GitHub
 “How to Automate Notes with ChatGPT & Notion AI”
 
 🔗 Prompt Chain
-Detailed prompt steps and responses are available in (./prompt_chain)
+Detailed prompt steps and responses are available in [View prompt_chain](./prompt_chain)
 
 🎬 YouTube Script
-Full script available in [View prompt_chain.md](./prompt_chain.md)
+Full script available in 
 
 
 🖼 Thumbnails
