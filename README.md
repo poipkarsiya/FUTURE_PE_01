@@ -27,7 +27,7 @@ Watch the completed video here [View Final_Video_Link.txt](./Final_Video_Link.tx
 Project overview and links to all included resources are here [View README.md](./README.md)
 
 ## 🎬 **YouTube Script**
-Full script available in [View YouTube Script.docx](./YouTube Script.docx)
+Full script available in [View YouTube Script.docx](./YouTube%20Script.docx)
 
 ## 🔗 **Prompt Chain**
 Detailed prompt steps and responses are available in [View prompt_chain](./prompt_chain)
