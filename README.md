@@ -5,9 +5,10 @@ This project explores how AI can automate note-taking for students and professio
 The aim is to demonstrate prompt chaining for idea extraction, summarization, and auto-organization of notes.
 
 ## Tools Used
-ChatGPT, Canva, InVideo/Pictory
+ChatGPT, Canva, InVideo/Pictory, GitHub
 
 ## Deliverables
+- Assets
 - Final Video Link
 - README.md
 - YouTube Script
@@ -20,10 +21,11 @@ ChatGPT, Canva, InVideo/Pictory
 “How to Automate Notes with ChatGPT & Notion AI”
 
 🔗 Prompt Chain
-Detailed prompt steps and responses are available in
+Detailed prompt steps and responses are available in (./prompt_chain)
 
 🎬 YouTube Script
-Full script available in
+Full script available in [View prompt_chain.md](./prompt_chain.md)
+
 
 🖼 Thumbnails
 All generated thumbnails are stored in
