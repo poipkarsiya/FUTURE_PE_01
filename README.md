@@ -1,4 +1,4 @@
-How to Automate Notes with ChatGPT & Notion AI
+# **How to Automate Notes with ChatGPT & Notion AI**
 
 ## Overview
 This project explores how AI can automate note-taking for students and professionals using ChatGPT prompts and Notion AI templates. 
@@ -17,23 +17,40 @@ ChatGPT, Canva, InVideo/Pictory, GitHub
 - Thumbnail
 - Voiceover Audio
 
-🎯 Final Title Selected
+## 🎯 **Final Title Selected**
 “How to Automate Notes with ChatGPT & Notion AI”
 
-🔗 Prompt Chain
+## ▶️ **Final Video Link**
+Watch the completed video here [View Final_Video_Link.txt](./Final_Video_Link.txt)
+
+## 📘 **README File**
+Project overview and links to all included resources are here [View README.md](./README.md)
+
+## 🎬 **YouTube Script**
+Full script available in [View YouTube Script.dox](./YouTubeScript.docx)
+
+## 🔗 **Prompt Chain**
 Detailed prompt steps and responses are available in [View prompt_chain](./prompt_chain)
 
-🎬 YouTube Script
-Full script available in 
+## 📝 **Script File**  
+Contains the full narration used for the final video in [View script](./script)
+
+## 🖼 **Thumbnails**
+All generated thumbnails are stored in [View thumbnail.png](./thumbnail.png)
+
+## 🎧 **Voiceover Audio**
+Final AI-generated voiceover used in the video is here [View voiceover.mp3.mp3](./voiceover.mp3.mp3)
+
+## 📂 **FUTURE_PE_01/**
+│── Final_Video_Link.txt
+│── README.md
+│── YouTube Script.docx
+│── prompt_chain
+│── script
+│── thumbnail.png
+│── voiceover.mp3.mp3
+│── assets
 
 
-🖼 Thumbnails
-All generated thumbnails are stored in
-
-▶️ Final Video Link
-Watch the completed video here
-
-📂 Folder Structure
-FUTURE_PE_01/ ├── README.md ├── Prompt_Chain.txt ├── YouTube_Script.docx ├── Thumbnails/ │ ├── Thumbnail1.png ├── Final_Video_Link.txt └── Screenshots/ (optional)
 
 
